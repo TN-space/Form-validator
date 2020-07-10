@@ -1,6 +1,6 @@
 # Form-validator
 
-simple form validotor using vanilla JavaScript
+simple form validator using vanilla JavaScript
 
 ### Images:
 
