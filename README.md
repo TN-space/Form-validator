@@ -2,7 +2,14 @@
 
 simple form validator using vanilla JavaScript
 
-### Images:
+### Functions
 
-<img src="./img/form1.png"> \
-<img src="./img/form2.png">
+[The app](https://tn-space.github.io/Form-validator/)
+
+Each field is quired. \
+Email check. \
+Password and Confirm Password have to match.
+
+### Images
+
+<img src="./img/form1.png">
