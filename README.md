@@ -12,4 +12,4 @@ Password and Confirm Password have to match.
 
 ### Images
 
-<img src="./img/form1.png">
+<img src="./form-validator/img/form1.png">
